@@ -53,5 +53,4 @@ Atualmente faço parte do time Squad de Experiência Digital RH na VR Benefício
 ##
   ![Snake animation](https://github.com/oluizleme/oluizleme/blob/output/github-contribution-grid-snake.svg)
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oluizleme&repo=oluizleme&theme=dracula)](https://github.com/oluizleme/oluizleme)
