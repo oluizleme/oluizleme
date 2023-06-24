@@ -32,19 +32,10 @@ Atualmente faço parte do time Squad de Experiência Digital RH na VR Benefício
 
 ##
 
-<div>
-<a href="https://github.com/oluizleme">
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizleme&layout=compact&langs_count=7&theme=buefy"/>
-</a>
-</div>
 
-##
+| <a href="https://github.com/oluizleme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oluizleme&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Oluizleme's github stats" /></a> | <a href="https://github.com/oluizleme/oluizleme"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizleme&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<div>
-<a href="https://github.com/oluizleme">
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=oluizleme&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</a>
-</div>
 
 ##
 
@@ -52,5 +43,3 @@ Atualmente faço parte do time Squad de Experiência Digital RH na VR Benefício
 
 ##
   ![Snake animation](https://github.com/oluizleme/oluizleme/blob/output/github-contribution-grid-snake.svg)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oluizleme&repo=oluizleme&theme=dracula)](https://github.com/oluizleme/oluizleme)
