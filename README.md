@@ -33,7 +33,7 @@ Atualmente faço parte do time Squad de Experiência Digital RH na VR Benefício
 ##
 
 
-| <a href="https://github.com/oluizleme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oluizleme&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Oluizleme's github stats" /></a> | <a href="https://github.com/oluizleme/oluizleme"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizleme&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/oluizleme/oluizleme"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oluizleme&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Oluizleme's github stats" /></a> | <a href="https://github.com/oluizleme/oluizleme"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizleme&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
