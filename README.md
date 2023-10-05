@@ -32,14 +32,15 @@ Atualmente faço parte do time Squad de Experiência Digital RH na VR Benefício
 
 ##
 
+<div>
+  <a href="https://github.com/ellen2121">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=oluizleme&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizleme&layout=compact&langs_count=7&theme=react" />
 
-| <a href="https://github.com/oluizleme/oluizleme"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oluizleme&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Oluizleme's github stats" /></a> | <a href="https://github.com/oluizleme/oluizleme"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizleme&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
 ##
 
 
-
 ##
-![snake animation](https://github.com/oluizleme/oluizleme/blob/output/github-contribution-grid-snake2.svg)
+  ![Snake animation](https://github.com/oluizleme/oluizleme/blob/output/github-contribution-grid-snake.svg)
